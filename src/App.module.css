@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  background: url('./images/to.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.image {
+  width: 370px;
+  margin-top: 50px;
+}
+
+@media only screen and (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+}
+.h1{
+  color: rgb(18, 36, 18);
+}
