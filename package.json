@@ -1,8 +1,8 @@
 {
-  "name": "adviceapp",
+  "name": "coronatracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": ""https://nagavineerpasam.github.io/Corona-virus-tracker/"",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
