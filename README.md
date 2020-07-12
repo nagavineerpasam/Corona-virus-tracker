@@ -3,6 +3,10 @@ Live deployment : https://nagavineerpasam.github.io/Corona-virus-tracker/
 
 
 
+Live deployment : https://livecovid19updates.herokuapp.com/
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
