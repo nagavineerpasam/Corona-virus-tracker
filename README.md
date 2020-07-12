@@ -1,3 +1,10 @@
+Live deployment : https://nagavineerpasam.github.io/Corona-virus-tracker/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
